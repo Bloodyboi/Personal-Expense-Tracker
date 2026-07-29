@@ -15,6 +15,14 @@ Data is stored in a **CSV file** so your expenses are saved even after closing t
 
 ---
 
+## 📸 Screenshots
+
+![screenshots](screenshots/screenshot-1.png)
+
+![screenshots](screenshots/screenshot-2.png)
+
+![screenshots](screenshots/screenshot-3.png)
+
 ## 🛠 Technologies Used
 - **Java** (Core, Collections, File I/O)
 - **CSV File Storage**
@@ -68,6 +76,8 @@ Add JavaFX GUI for a better visual interface.
 Include data filtering by category/date range.
 
 Generate PDF/Excel reports.
+
+---
 
 ## 👨‍💻 Author
 
