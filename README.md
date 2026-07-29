@@ -68,3 +68,9 @@ Add JavaFX GUI for a better visual interface.
 Include data filtering by category/date range.
 
 Generate PDF/Excel reports.
+
+## 👨‍💻 Author
+
+**Shivansh Bhatnagar**
+
+GitHub: https://github.com/Bloodyboi
